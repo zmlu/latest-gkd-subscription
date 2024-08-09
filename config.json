@@ -3,6 +3,10 @@
     {
       "repo": "Adpro-Team/GKD_subscription",
       "file_name": "adpro-team-gkd-subscription.json5"
+    },
+    {
+      "repo": "AIsouler/GKD_subscription",
+      "file_name": "aisouler-gkd-subscription.json5"
     }
   ]
 }
